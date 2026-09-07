@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor temporary files
+*.swp
+*.swo
+*~
+
+# Configuration backups and diagnostic output
+*.bak
+*.bak.*
+*.backup
+*.log
+test-results/
+tmp/
+
+# Local environment and shell history
+.env
+.env.*
+!.env.example
+.zsh_history
+.bash_history
